@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://tcsw.netlify.app/'
 languageCode = 'en-us'
 title = 'TCSW'
 theme = "universal"
@@ -115,7 +115,7 @@ pluralizelisttitles = false
     parent     = "menu.asvz"
 
 [[menu.main]]
-    name       = "Contact"
+    name       = "Kontakt"
     identifier = "menu.contact"
     url        = "/contact"
     weight     = 7
@@ -123,6 +123,8 @@ pluralizelisttitles = false
 
 [params]
     style = "red"
+
+    date_format = "2.01.2006"
 
 
     disabled_logo = false
@@ -136,8 +138,15 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "TENNISCLUB SCHÜTZENWIESE"
     subtitle = "WILLKOMMEN BEIM SCHÖNSTEN TENNISCLUB DER STADT WINTERTHUR"
+    link_url = "posts/membership"
+    link_text = "JETZT BEITRETEN"
 
-
+[params.features]
+    enable = true
+    cols = 6 # Default: 3, Available values 2,3,4,6
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more information take a look at the README.
 
 [params.carouselHomepage]
     # All carousel items are defined in their own files. You can find example items
@@ -147,6 +156,7 @@ pluralizelisttitles = false
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
+
 
 [params.clients]
     enable = true
