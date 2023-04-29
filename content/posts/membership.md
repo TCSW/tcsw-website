@@ -12,7 +12,7 @@ Wichtig zu wissen
 Wird neben der Clubmitgliedschaft auch eine Swiss Tennis Lizenz gewünscht, so wird diese separat verrechent. Ab dem zweiten Jahr der Mitgliedschaft leisten die Mitglieder Frondienst für die Pflege des Clubs. Die Ausübung dieser Leistung kann kompensiert werden durch einen monetären Beitrag. Für Interclub-Spieler können zusätzliche Verpflichtungen entstehen.
 Sure, here's the same table with borders added:
 
-{{<table "table table-striped table-bordered">}}
+{{<table "table table-striped table-bordered responsive-table">}}
 | Typ                 | Beschreibung                                               | Spielberechtigung                               | Zusätze                                       | Price |
 |---------------------|------------------------------------------------------------|------------------------------------------------|-----------------------------------------------|-------|
 | Aktiv 1             | Für alle                                                   | Uneingeschränkt                                 | Kinder bis 6 Jahre sind inklusive             | 550.-   |
