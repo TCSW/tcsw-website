@@ -1,6 +1,7 @@
 ---
 title: "About"
 banner: "img/club/img-28-2000x1500.jpg"
+type: about
 ---
 
 # Herzlich Willkommen im Tennisclub Schützenwiese!

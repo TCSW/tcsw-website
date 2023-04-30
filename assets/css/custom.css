@@ -1,0 +1,6 @@
+
+.bar.background-image-fixed-3 {
+    background: url('../img/fixed-background-3.jpg') center top no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
