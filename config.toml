@@ -1,7 +1,7 @@
 baseURL = 'https://tcsw.netlify.app/'
 languageCode = 'en-us'
 title = 'TCSW'
-theme = "universal"
+theme = "hugo-universal-theme"
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "de"
