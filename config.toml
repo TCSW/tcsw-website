@@ -1,7 +1,7 @@
 baseURL = 'https://tcsw.netlify.app/'
 languageCode = 'en-us'
 title = 'TCSW'
-theme = "universal"
+theme = "hugo-universal-theme"
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "de"
@@ -138,7 +138,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "TENNISCLUB SCHÜTZENWIESE"
     subtitle = "WILLKOMMEN BEIM SCHÖNSTEN TENNISCLUB DER STADT WINTERTHUR"
-    link_url = "posts/membership"
+    link_url = "membership"
     link_text = "JETZT BEITRETEN"
 
 [params.features]
