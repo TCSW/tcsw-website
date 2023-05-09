@@ -120,6 +120,19 @@ pluralizelisttitles = false
     url        = "/contact"
     weight     = 7
 
+# Topbar Socials
+
+[[menu.topbar]]
+    weight = 1
+    name = "Instagram"
+    url = "https://instagram.com/"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+    
+[[menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "http://facebook.com"
+    pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [params]
     style = "red"
@@ -132,6 +145,14 @@ pluralizelisttitles = false
     logo = "img/logo-full.jpg"
     logo_small = "img/logo-small.jpg"
 
+    about_us = "<p>TBD</p>"
+    contact_url = "/contact"
+    address = """<p class="text-uppercase"><strong>TENNISCLUB SCHÜTZENWIESE</strong>
+        <br><strong>Schützenwiesenweg 8, 
+        <br>8400 Winterthur, Zürich</strong>
+        <br>Eine direkte Zufahrt zum Tennisclub ist nicht möglich. Es wird empfohlen, den öffentlichen (gebührenpflichtigen) Parkplatz des Fussballstadions "Schützenwiese" zu benützen, welcher 200 Meter vom Club entfernt liegt und zu Fuss bequem über den Schützenwiesenweg erreicht wird. Die Zufahrt zum Parkplatz ist beschildert. Die genaue Lage ist auf diesem <a href="https://www.parkme.com/de/lot/109738/schtzenwiese-winterthur-switzerland">Link</a> ersichtlich.
+      </p>
+      """
 
 [params.static_bg]
     enable = true
@@ -157,6 +178,11 @@ pluralizelisttitles = false
     slide_speed = 2000
     pagination_speed = 1000
 
+[params.testimonials]
+    enable = true
+    title = "Vorstand"
+    subtitle = "Das Team des Tennisclubs Schützenwiese für die Saison 2023"
+
 
 [params.clients]
     enable = true
@@ -171,3 +197,8 @@ pluralizelisttitles = false
       </p>
       """
 
+[params.footer.recent_posts]
+    enable = true
+
+[params.topbar]
+    enable = true

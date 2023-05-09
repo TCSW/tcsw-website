@@ -4,3 +4,6 @@
     background-attachment: scroll;
     background-size: cover;
   }
+.lead {
+  text-align: center;
+}
