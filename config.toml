@@ -86,7 +86,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Jahresprogramm"
-    url        = "/"
+    url        = "/events"
     weight     = 1
     parent     = "menu.events"
 
