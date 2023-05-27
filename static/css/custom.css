@@ -13,3 +13,8 @@
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }
+#heading-breadcrumbs {
+  background: url('/img/club/img-30-2000x1500.jpg') bottom;
+  padding: 20px 0;
+  margin-bottom: 40px;
+}

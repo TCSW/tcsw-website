@@ -1,6 +1,6 @@
 ---
 title: "Hello"
-date: 2023-05-26T17:39:56+02:00
+banner: "img/club/img-28-2000x1500.jpg"
 ---
 
 # Das ist ein Titel
@@ -8,4 +8,5 @@ date: 2023-05-26T17:39:56+02:00
 ## untertild
 
 bearbeitet
-### 
+
+###

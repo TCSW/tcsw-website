@@ -62,7 +62,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Junioren"
-    url        = "/"
+    url        = "/training"
     weight     = 1
     parent     = "menu.training"
 
@@ -92,8 +92,8 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Interclub"
-    url        = "/"
-    weight     = 1
+    url        = "/interclub"
+    weight     = 2
     parent     = "menu.events"
 
 [[menu.main]]
@@ -138,7 +138,6 @@ pluralizelisttitles = false
     style = "red"
 
     date_format = "2.01.2006"
-
 
     disabled_logo = false
     logo_text = "TCSW"
