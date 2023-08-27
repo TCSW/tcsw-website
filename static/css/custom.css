@@ -4,3 +4,17 @@
     background-attachment: scroll;
     background-size: cover;
   }
+.lead {
+  text-align: center;
+}
+.bar.background-pentagon {
+  background: url('/img/img-6972-2000x549.jpg') center center no-repeat;
+  background-size: cover;
+  border-top: solid 1px #999999;
+  border-bottom: solid 1px #999999;
+}
+#heading-breadcrumbs {
+  background: url('/img/club/img-30-2000x1500.jpg') bottom;
+  padding: 20px 0;
+  margin-bottom: 40px;
+}
