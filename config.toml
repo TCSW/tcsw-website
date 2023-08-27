@@ -68,13 +68,13 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Erwachsene"
-    url        = "/"
+    url        = "/training"
     weight     = 2
     parent     = "menu.training"
 
 [[menu.main]]
     name       = "Nichtmitglieder"
-    url        = "/"
+    url        = "/training"
     weight     = 3
     parent     = "menu.training"
 
