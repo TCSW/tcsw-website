@@ -1,12 +1,17 @@
 ---
-title: "Hello"
+title: "Agenda 2023"
 banner: "img/club/img-28-2000x1500.jpg"
 ---
 
-# Das ist ein Titel
+# Agenda 2023
 
-## untertild
+## Clubmeisterschaft 2023
+14. September - 17. September
+21. September - 24. September (Ausweichdatum)
 
-bearbeitet
+## Saisonende 2023
+  24. September 2023
 
-###
+## Abbruch und Neubau Clubhaus
+  ab 24. September Abbruch Clubhaus
+  ab xx Neubau Clubhaus
