@@ -7,7 +7,9 @@ type: membership
 
 Der Tennisclub Schützenwiese offeriert eine Vielzahl verschiedener Mitgliedschaften. Die Details dazu sind nebenstehend in den verschiedenen Abschnitte aufgeführt.
 
-Eine verbindliche Anmeldung erfolgt unkompliziert via diesen [Link](http://tcsw.ch/subscribe.html)
+<!-- Eine verbindliche Anmeldung erfolgt unkompliziert via diesen [Link](http://tcsw.ch/subscribe.html) -->
+
+Eine verbindliche Anmeldung erfolgt unkompliziert via diesen [Link]({{< ref "/subscribe" >}})
 
 Wichtig zu wissen
 Wird neben der Clubmitgliedschaft auch eine Swiss Tennis Lizenz gewünscht, so wird diese separat verrechent. Ab dem zweiten Jahr der Mitgliedschaft leisten die Mitglieder Frondienst für die Pflege des Clubs. Die Ausübung dieser Leistung kann kompensiert werden durch einen monetären Beitrag. Für Interclub-Spieler können zusätzliche Verpflichtungen entstehen.

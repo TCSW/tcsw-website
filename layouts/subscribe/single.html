@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+</head>
+
+<body>
+
+    <div id="all">
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        <div id="content">
+            <section class="mbr-section mbr-section-hero call3 mbr-after-navbar" id="call5-26" data-rv-view="186"
+                style="background-color: rgb(221, 221, 221); padding-top: 80px; padding-bottom: 0px;">
+
+
+
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-lg-8 col-lg-offset-2 text-xs-left call-inner">
+
+                            <div class="col-xs-12 text-xs-center">
+
+                                <h1 class="mbr-section-title display-4" style="text-align: center;">Anmeldung</h1>
+
+                                <p class="mbr-section-text lead">Bitte fülle die untenstehenden Angaben aus - so kannst
+                                    Du in
+                                    kürzester Zeit dem Tennisclub Schützenwiese beitreten. Beachte, dass Du Dein
+                                    Einverständnis
+                                    gibst zu Statuten und Konditionen, indem Du die Checkbox zuunterst auf dem Formular
+                                    anklickst.
+                                </p>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <div id="custom-html-22">
+                <section class="container-fluid"
+                    style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6 col-md-offset-3">
+                            <form action="http://www.tcsw.ch/mail.php" method="POST">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="*Name" name="name" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="*Vorname" name="vorname"
+                                        required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="*Adresse" name="adresse"
+                                        required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" inputmode="numeric" class="form-control" placeholder="*PLZ 8400"
+                                        pattern="[0-9]{4}" name="plz" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="*Ort" name="ort" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="*Geburtsdatum" name="birthdate"
+                                        required onfocus="(this.type='date')">
+                                </div>
+                                <div class="form-group">
+                                    <input type="tel" class="form-control" placeholder="Telefon" name="tel">
+                                </div>
+                                <div class="form-group">
+                                    <input type="tel" class="form-control" placeholder="*Mobile 079 123 45 67"
+                                        pattern="(0[0-9]{9})|(0[0-9]{2}\s[0-9]{3}\s[0-9]{2}\s[0-9]{2})" name="mobile"
+                                        required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" placeholder="*Email" name="email" required>
+                                </div>
+                                <div class="radio">
+                                    <div class="radio">
+                                        <p class="help-block">Wähle Deine Mitgliedschaft:</p>
+
+                                    </div>
+                                    <label>
+                                        <input type="radio" name="optionsRadios" id="optionsRadios1" value="Aktiv_1"
+                                            checked="">
+                                        Aktiv 1 (CHF 550.-/ Jahr)
+                                    </label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+
+                                        <input type="radio" name="optionsRadios" id="optionsRadios2" value="Aktiv_2">
+                                        Aktiv 2 (CHF 420.-/ Jahr)
+                                    </label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="optionsRadios" id="optionsRadios3"
+                                            value="Aktiv_in_Ausbildung">
+                                        Aktiv in Ausbildung (CHF 250.-/ Jahr)
+                                    </label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="optionsRadios" id="optionsRadios4" value="Familie">
+                                        Familie (CHF 900.-/ Jahr)
+                                    </label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="optionsRadios" id="optionsRadios5" value="Junior_1">
+                                        Junior 1 (CHF 200.-/ Jahr)
+                                    </label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="optionsRadios" id="optionsRadios6" value="Junior_2">
+                                        Junior 2 (CHF 100.-/ Jahr)
+                                    </label>
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control" rows="3" placeholder="Bemerkungen"
+                                        name="comment"></textarea>
+                                </div>
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" name="confirm" value="confirm">
+                                        Ich erkläre die Anmeldung als verbindlich. Ich kenne die Regelungen in den
+                                        Statuten und
+                                        dem Spielreglement (über den club &gt; dokumente) und bin damit einverstanden.
+                                    </label>
+                                </div>
+                                <input type="submit" class="form-control btn btn-template-main"
+                                    value="Anmeldung abschicken">
+                            </form>
+                        </div>
+
+                    </div>
+
+                </section>
+            </div>
+
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+</body>
+
+</html>
