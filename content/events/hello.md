@@ -5,11 +5,11 @@ banner: "img/club/img-28-2000x1500.jpg"
 
 # Jahresprogramm
 
-## Neubau Clubhaus 
-Oktober 2023 - März 2024
+*## Neubau Clubhaus 
+  *Oktober 2023 - März 2024
 
-## Saisonstart
-Mitte April 2024 - Eröffnung neus Clubhaus
+*## Saisonstart
+  *Mitte April 2024 - Eröffnung neus Clubhaus
 
 ## Interclub
 1. Runde 04.05.24 - 05.05.24
