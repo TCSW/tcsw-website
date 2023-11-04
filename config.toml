@@ -31,27 +31,39 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
+    name       = "Über Us"
+    url        = "/about"
+    weight     = 1
+    parent     = "menu.home"
+
+[[menu.main]]
     name       = "Geschichte"
     url        = "/"
-    weight     = 1
+    weight     = 2
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Mitgliedschaften"
     url        = "/membership"
-    weight     = 2
+    weight     = 3
+    parent     = "menu.home"
+
+[[menu.main]]
+    name       = "Anmeldung"
+    url        = "/subscribe"
+    weight     = 4
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Sponsoren"
     url        = "/sponsors"
-    weight     = 3
+    weight     = 5
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Über Us"
-    url        = "/about"
-    weight     = 4
+    name       = "Dokumente"
+    url        = "/documents/documents"
+    weight     = 6
     parent     = "menu.home"
 
 [[menu.main]]
@@ -86,7 +98,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Jahresprogramm"
-    url        = "/events"
+    url        = "/events/jahresprogramm"
     weight     = 1
     parent     = "menu.events"
 
@@ -141,8 +153,8 @@ pluralizelisttitles = false
 
     disabled_logo = false
     logo_text = "TCSW"
-    logo = "img/logo-full.jpg"
-    logo_small = "img/logo-full.jpg"
+    logo = "img/tcswlogo2-2-1650x1653.png"
+    logo_small = "img/tcswlogo2-2-1650x1653.png"
 
     about_us = "<p>TBD</p>"
     contact_url = "/contact"
