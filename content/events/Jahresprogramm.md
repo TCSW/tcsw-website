@@ -31,10 +31,9 @@ type: "folding"
 - Runde 3 25.05.24 - 26.05.24
 - Runde 4 01.06.24 - 02.06.24
 - Runde 4 08.06.24 - 09.06.24
+{{< /details >}}
 
 <!-- Jubiläumsfeier -->
-
-{{< /details >}}
 
 {{< details "Jubiläumsfeier 101 Jahre TC Schützenwiese" >}}
 
@@ -42,9 +41,8 @@ type: "folding"
 
 {{< /details >}}
 
-<!-- Clubmeisterschaft -->
 
-{{< /details >}}
+<!-- Clubmeisterschaft -->
 
 {{< details "Clubmeisterschaft" >}}
 
@@ -52,6 +50,7 @@ type: "folding"
 - Finalspiele September 2024
 
 {{< /details >}}
+
 
 <!-- Saisonende  -->
 
