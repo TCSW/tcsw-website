@@ -42,6 +42,17 @@ type: "folding"
 
 {{< /details >}}
 
+<!-- Clubmeisterschaft -->
+
+{{< /details >}}
+
+{{< details "Clubmeisterschaft" >}}
+
+- Gruppenphase Clubmeisterschaft Sommer 2024
+- Finalspiele September 2024
+
+{{< /details >}}
+
 <!-- Saisonende  -->
 
 {{< details "Sasionende" >}}
