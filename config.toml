@@ -142,7 +142,7 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "TCSW"
     logo = "img/logo-full.jpg"
-    logo_small = "img/logo-small.jpg"
+    logo_small = "img/logo-full.jpg"
 
     about_us = "<p>TBD</p>"
     contact_url = "/contact"
