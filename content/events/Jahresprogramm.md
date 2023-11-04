@@ -1,23 +1,72 @@
 ---
 title: "Jahresprogramm"
 banner: "img/club/img-28-2000x1500.jpg"
+type: "folding"
 ---
 
 # Jahresprogramm
 
-* ## Oktober 23 - März 24 | Neubau Clubhaus 
+<!-- Neubau Clubhaus -->
 
-* ## April 2024 | Saisonstart und Erföffnung Clubhaus
+{{< details "Neubau Clubhaus" >}}
 
-* ## Mai 2024 - Juni 2024 | Interclubsaison
-  * Runde 1 04.05.24 - 05.05.24
-  * Runde 2 11.05.24 - 12.05.24
-  * Runde 3 25.05.24 - 26.05.24
-  * Runde 4 01.06.24 - 02.06.24
-  * Runde 4 08.06.24 - 09.06.24
+- Oktober 2023 bis März 2024
 
-* ## 24. August 2024 | Jubiläumsfeier - 101 Jahre TC Schützenwiese
+{{< /details >}}
 
-* ## Mitte Oktober | Saisonende
- 
-* ## Mitte Oktober - Mitte April | Spielbetrieb Winter 
+<!-- Saisonstart -->
+
+{{< details "Saisonstart" >}}
+
+- April 2024 Saisostart und Eröffnung Clubhaus
+
+{{< /details >}}
+
+<!-- Interclub -->
+
+{{< details "Interclubsaison" >}}
+
+- Runde 1 04.05.24 - 05.05.24
+- Runde 2 11.05.24 - 12.05.24
+- Runde 3 25.05.24 - 26.05.24
+- Runde 4 01.06.24 - 02.06.24
+- Runde 4 08.06.24 - 09.06.24
+{{< /details >}}
+
+
+<!-- Junioren Stadtmeisterschaft -->
+
+{{< details "Junioren Stadtmeisterschaft 2024" >}}
+
+- 17. / 18. August 2024
+
+{{< /details >}}
+
+
+<!-- Jubiläumsfeier -->
+
+{{< details "Jubiläumsfeier 101 Jahre TC Schützenwiese" >}}
+
+- 24. August 2024
+
+{{< /details >}}
+
+
+<!-- Clubmeisterschaft -->
+
+{{< details "Clubmeisterschaft" >}}
+
+- Gruppenphase Clubmeisterschaft Sommer 2024
+- Finalspiele September 2024
+
+{{< /details >}}
+
+
+<!-- Saisonende  -->
+
+{{< details "Sasionende" >}}
+
+- Mitte Oktober schliesst die Anlage
+- reduzierter Spielbetrieb ab Mitte Oktober bis Mitte April
+
+{{< /details >}}
