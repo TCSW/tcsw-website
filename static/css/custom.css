@@ -33,5 +33,6 @@ summary {
   margin-bottom: 5px; /* Space between buttons */
   text-align: center; /* Adjust the text alignment */
   font-weight: bolder;
+  font-size: larger;
   outline: none; /* Remove focus outline */
 }
