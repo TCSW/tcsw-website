@@ -5,20 +5,22 @@ type: "folding"
 ---
 
 # Jahresprogramm
+
+<!-- Neubau Clubhaus -->
 {{< details "Neubau Clubhaus" >}}
 
 - Oktober 2023 bis März 2024
 
 {{< /details >}}
 
-
+<!-- Saisonstart -->
 {{< details "Saisonstart" >}}
 
-April 2024 Saisostart und Eröffnung Clubhaus
+- April 2024 Saisostart und Eröffnung Clubhaus
 
 {{< /details >}}
 
-
+<!-- Interclub -->
 {{< details "INTERCLUBESASION" >}}
 
 - Runde 1 04.05.24 - 05.05.24
@@ -27,14 +29,22 @@ April 2024 Saisostart und Eröffnung Clubhaus
 - Runde 4 01.06.24 - 02.06.24
 - Runde 4 08.06.24 - 09.06.24
 
+<!-- Jubiläumsfeier -->
+{{< /details >}}
+
+{{< details "Jubiläumsfeier 101 Jahre TC Schützenwiese" >}}
+
+- 24. August 2024
+
 {{< /details >}}
 
 
+<!-- Saisonende  -->
+{{< /details >}}
 
+{{< details "Sasionende" >}}
 
+- Mitte Oktober schliesst die Anlage
+- reduzierter Spielbetrieb ab Mitte Oktober bis Mitte April
 
-- ## 24. August 2024 | Jubiläumsfeier - 101 Jahre TC Schützenwiese
-
-- ## Mitte Oktober | Saisonende
-
-- ## Mitte Oktober - Mitte April | Spielbetrieb Winter
+{{< /details >}}
