@@ -159,7 +159,8 @@ pluralizelisttitles = false
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>TENNISCLUB SCHÜTZENWIESE</strong>
         <br><strong>Schützenwiesenweg 8, 
-        <br>8400 Winterthur, Zürich</strong>
+        <br>8400 Winterthur, Zürich
+        <br>info@tcsw.ch</strong>
       </p>
       """
 

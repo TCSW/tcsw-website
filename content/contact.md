@@ -6,7 +6,7 @@ id: contact
 
 # Kontaktiere uns
 
-Deine Meinung interessiert uns! Und bei Fragen versuchen wir ebenfalls gerne, raschmöglichst weiterzuhelfen. Bitte lass uns wissen, mit welcher Auskunft wir Dir weiterhelfen können.
+Deine Meinung interessiert uns! Und bei Fragen versuchen wir ebenfalls gerne, raschmöglichst weiterzuhelfen. Bitte lass uns wissen, mit welcher Auskunft wir Dir weiterhelfen können. [info@tcsw.ch](mailto:info@tcsw.ch)
 
 # Anfahrt
 
