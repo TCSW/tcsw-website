@@ -2,7 +2,7 @@
 title: "Documents"
 ---
 
-# [Statuten](/pdf/test.pdf)
+# [Statuten](/pdf/statuten.pdf)
 
 # [Spielreglement](/pdf/spielreglement.pdf)
 
