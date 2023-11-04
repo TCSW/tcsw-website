@@ -156,12 +156,10 @@ pluralizelisttitles = false
     logo = "img/tcswlogo2-2-1650x1653.png"
     logo_small = "img/tcswlogo2-2-1650x1653.png"
 
-    about_us = "<p>TBD</p>"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>TENNISCLUB SCHÜTZENWIESE</strong>
         <br><strong>Schützenwiesenweg 8, 
         <br>8400 Winterthur, Zürich</strong>
-        <br>Eine direkte Zufahrt zum Tennisclub ist nicht möglich. Es wird empfohlen, den öffentlichen (gebührenpflichtigen) Parkplatz des Fussballstadions "Schützenwiese" zu benützen, welcher 200 Meter vom Club entfernt liegt und zu Fuss bequem über den Schützenwiesenweg erreicht wird. Die Zufahrt zum Parkplatz ist beschildert. Die genaue Lage ist auf diesem <a href="https://www.parkme.com/de/lot/109738/schtzenwiese-winterthur-switzerland">Link</a> ersichtlich.
       </p>
       """
 
