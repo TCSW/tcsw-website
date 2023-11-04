@@ -6,4 +6,4 @@ title: "Documents"
 
 # [Spielreglement](/pdf/spielreglement.pdf)
 
-# Frondienstreglement
+# [Frondienstreglement](pdf/frondienstreglement.pdf)
