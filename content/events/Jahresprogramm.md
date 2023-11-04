@@ -24,7 +24,7 @@ type: "folding"
 
 <!-- Interclub -->
 
-{{< details "INTERCLUBESASION" >}}
+{{< details "Interclubsaison" >}}
 
 - Runde 1 04.05.24 - 05.05.24
 - Runde 2 11.05.24 - 12.05.24
