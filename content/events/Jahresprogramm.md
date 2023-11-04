@@ -33,6 +33,16 @@ type: "folding"
 - Runde 4 08.06.24 - 09.06.24
 {{< /details >}}
 
+
+<!-- Junioren Stadtmeisterschaft -->
+
+{{< details "Junioren Stadtmeisterschaft 2024" >}}
+
+- 17. / 18. August 2024
+
+{{< /details >}}
+
+
 <!-- Jubiläumsfeier -->
 
 {{< details "Jubiläumsfeier 101 Jahre TC Schützenwiese" >}}
