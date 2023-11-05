@@ -5,3 +5,6 @@ Wir werden uns schnellstmöglich bei dir melden.
 ## Dein nächster Schritt
 
 - Konto bei [GotCourts](https://apps.gotcourts.com/en/) eröffnen
+
+{{< tennis-gif >}}
+{{< /tennis-gif >}}
