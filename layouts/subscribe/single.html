@@ -48,7 +48,7 @@
                     style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
                     <div class="row">
                         <div class="col-xs-12 col-md-6 col-md-offset-3">
-                            <form method="POST" netlify>
+                            <form name="subscription" action="/success" method="POST" netlify>
                                 <div class="form-group">
                                     <input type="text" class="form-control" placeholder="*Name" name="name" required>
                                 </div>
@@ -88,7 +88,7 @@
 
                                     </div>
                                     <label>
-                                        <input type="radio" name="optionsRadios" id="optionsRadios1" value="Aktiv_1"
+                                        <input type="radio" name="membershipType" id="membershipType1" value="Aktiv_1"
                                             checked="">
                                         Aktiv 1 (CHF 550.-/ Jahr)
                                     </label>
@@ -96,32 +96,32 @@
                                 <div class="radio">
                                     <label>
 
-                                        <input type="radio" name="optionsRadios" id="optionsRadios2" value="Aktiv_2">
+                                        <input type="radio" name="membershipType" id="membershipType2" value="Aktiv_2">
                                         Aktiv 2 (CHF 420.-/ Jahr)
                                     </label>
                                 </div>
                                 <div class="radio">
                                     <label>
-                                        <input type="radio" name="optionsRadios" id="optionsRadios3"
+                                        <input type="radio" name="membershipType" id="membershipType3"
                                             value="Aktiv_in_Ausbildung">
                                         Aktiv in Ausbildung (CHF 250.-/ Jahr)
                                     </label>
                                 </div>
                                 <div class="radio">
                                     <label>
-                                        <input type="radio" name="optionsRadios" id="optionsRadios4" value="Familie">
+                                        <input type="radio" name="membershipType" id="membershipType4" value="Familie">
                                         Familie (CHF 900.-/ Jahr)
                                     </label>
                                 </div>
                                 <div class="radio">
                                     <label>
-                                        <input type="radio" name="optionsRadios" id="optionsRadios5" value="Junior_1">
+                                        <input type="radio" name="membershipType" id="membershipType5" value="Junior_1">
                                         Junior 1 (CHF 200.-/ Jahr)
                                     </label>
                                 </div>
                                 <div class="radio">
                                     <label>
-                                        <input type="radio" name="optionsRadios" id="optionsRadios6" value="Junior_2">
+                                        <input type="radio" name="membershipType" id="membershipType6" value="Junior_2">
                                         Junior 2 (CHF 100.-/ Jahr)
                                     </label>
                                 </div>
@@ -131,10 +131,10 @@
                                 </div>
                                 <div class="checkbox">
                                     <label>
-                                        <input type="checkbox" name="confirm" value="confirm" required>
+                                        <input type="checkbox" name="rulesConfirmation" value="confirm" required>
                                         Ich erkläre die Anmeldung als verbindlich. Ich kenne die Regelungen in den
-                                        Statuten und
-                                        dem Spielreglement (über den club &gt; dokumente) und bin damit einverstanden.
+                                        Statuten und dem Spielreglement (Home &gt; Dokumente) und bin damit
+                                        einverstanden.
                                     </label>
                                 </div>
                                 <input type="submit" class="form-control btn btn-template-main"

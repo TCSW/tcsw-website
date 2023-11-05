@@ -23,16 +23,37 @@
 summary {
   list-style: none;
   cursor: pointer;
-  background-color: var(--primary-accent);; /* Button background color */
-  color: #000;
+  background-color: #ffffff; /* Button background color */
+  color: var(--primary-accent);
+  
+  border-color: var(--button-border);
   padding: 10px; /* Padding around the button text */
   width: 100%; /* Extending to page width */
   display: block;
-  border: none;
+  border: 1px solid var(--primary-accent);
   /* border-radius: 5px; */
   margin-bottom: 5px; /* Space between buttons */
   text-align: center; /* Adjust the text alignment */
   font-weight: bolder;
   font-size: larger;
   outline: none; /* Remove focus outline */
+  transition: background-color 0.2s;
+}
+
+summary:hover {
+  /* background-color: var(--link-hover-bg); */
+  background: var(--primary-accent);
+  color: #ffffff;
+  border-color: var(--primary-accent);
+}
+
+input[type="radio"], input[type="checkbox"] {
+  accent-color: var(--primary-accent);
+  color: var(--primary-accent);
+}
+
+.fit {
+  max-width: 100%;
+  max-height: 100%;
+  padding: 3%;
 }
