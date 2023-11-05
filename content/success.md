@@ -1,7 +1,7 @@
-# Vielen Dank!
+# Vielen Dank für deine Anmeldung!
 
-Wir werden uns in der nachsten 3-Tage uns bei dir melden.
+Wir werden uns schnellstmöglich bei dir melden.
 
-## Was soll ich jetzt machen?
+## Dein nächster Schritt
 
-Haben Sie schon ein GotCourts Konto?
+- Konto bei [GotCourts](https://apps.gotcourts.com/en/) eröffnen
