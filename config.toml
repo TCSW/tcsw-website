@@ -38,98 +38,98 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Über Us"
-    url        = "/about"
+    url        = "/about/"
     weight     = 2
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Geschichte"
-    url        = "/history"
+    url        = "/history/"
     weight     = 3
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Mitgliedschaften"
-    url        = "/membership"
+    url        = "/membership/"
     weight     = 4
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Anmeldung"
-    url        = "/subscribe"
+    url        = "/subscribe/"
     weight     = 5
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Sponsoren"
-    url        = "/sponsors"
+    url        = "/sponsors/"
     weight     = 6
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Dokumente"
-    url        = "/documents/documents"
+    url        = "/documents/documents/"
     weight     = 7
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Training"
     identifier = "menu.training"
-    url        = "/training"
+    url        = "/training/"
     weight     = 2
 
 [[menu.main]]
     name       = "Junioren"
-    url        = "/training/probase"
+    url        = "/training/probase/"
     weight     = 1
     parent     = "menu.training"
 
 [[menu.main]]
     name       = "Erwachsene"
-    url        = "/training/probase"
+    url        = "/training/probase/"
     weight     = 2
     parent     = "menu.training"
 
 [[menu.main]]
     name       = "Nichtmitglieder"
-    url        = "/training/probase"
+    url        = "/training/probase/"
     weight     = 3
     parent     = "menu.training"
 
 [[menu.main]]
     name       = "Events"
     identifier = "menu.events"
-    url        = "/events"
+    url        = "/events/"
     weight     = 3
 
 [[menu.main]]
     name       = "Jahresprogramm"
-    url        = "/events/jahresprogramm"
+    url        = "/events/jahresprogramm/"
     weight     = 1
     parent     = "menu.events"
 
 [[menu.main]]
     name       = "Interclub"
-    url        = "/interclub"
+    url        = "/interclub/"
     weight     = 2
     parent     = "menu.events"
 
 [[menu.main]]
     name       = "ASVZ"
     identifier = "menu.asvz"
-    url        = "/asvz"
+    url        = "/asvz/"
     weight     = 4
 
 [[menu.main]]
     name       = "FAQ"
-    identifier = "faq"
-    url        = "/faq"
+    identifier = "menu.faq"
+    url        = "/faq/"
     weight     = 5
 
 [[menu.main]]
     name       = "Kontakt"
     identifier = "menu.contact"
-    url        = "/contact"
+    url        = "/contact/"
     weight     = 6
 
 # Topbar Socials
