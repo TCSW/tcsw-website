@@ -22,19 +22,11 @@ type: "folding"
 
 {{< /details >}}
 
-<!-- Eröffnung neues Clubhaus -->
+<!-- Eröffnung neues Clubhaus/Saisonstart -->
 
 {{< details "Eröffnung Neubau Clubhaus" >}}
 
 - 13. April, ab 15:00 Uhr
-
-{{< /details >}}
-
-<!-- Saisonstart -->
-
-{{< details "Saisonstart" >}}
-
-- April 2024 Saisostart und Eröffnung Clubhaus
 
 {{< /details >}}
 
