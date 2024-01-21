@@ -31,69 +31,75 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Über Us"
-    url        = "/about"
+    name       = "Home"
+    url        = "/"
     weight     = 1
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Geschichte"
-    url        = "/"
+    name       = "Über Us"
+    url        = "/about"
     weight     = 2
+    parent     = "menu.home"
+
+[[menu.main]]
+    name       = "Geschichte"
+    url        = "/history"
+    weight     = 3
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Mitgliedschaften"
     url        = "/membership"
-    weight     = 3
+    weight     = 4
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Anmeldung"
     url        = "/subscribe"
-    weight     = 4
+    weight     = 5
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Sponsoren"
     url        = "/sponsors"
-    weight     = 5
+    weight     = 6
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Dokumente"
     url        = "/documents/documents"
-    weight     = 6
+    weight     = 7
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Training"
     identifier = "menu.training"
-    url        = "/img/template-easy-customize.png"
+    url        = "/training"
     weight     = 2
 
 [[menu.main]]
     name       = "Junioren"
-    url        = "/training"
+    url        = "/training/probase"
     weight     = 1
     parent     = "menu.training"
 
 [[menu.main]]
     name       = "Erwachsene"
-    url        = "/training"
+    url        = "/training/probase"
     weight     = 2
     parent     = "menu.training"
 
 [[menu.main]]
     name       = "Nichtmitglieder"
-    url        = "/training"
+    url        = "/training/probase"
     weight     = 3
     parent     = "menu.training"
 
 [[menu.main]]
     name       = "Events"
     identifier = "menu.events"
-    url        = "/img/template-homepage.png"
+    url        = "/events"
     weight     = 3
 
 [[menu.main]]
@@ -111,26 +117,20 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "ASVZ"
     identifier = "menu.asvz"
-    url        = "/asvz-info"
+    url        = "/asvz"
     weight     = 4
 
 [[menu.main]]
-    name       = "Info"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.asvz"
-
-[[menu.main]]
     name       = "FAQ"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.asvz"
+    identifier = "faq"
+    url        = "/faq"
+    weight     = 5
 
 [[menu.main]]
     name       = "Kontakt"
     identifier = "menu.contact"
     url        = "/contact"
-    weight     = 7
+    weight     = 6
 
 # Topbar Socials
 
