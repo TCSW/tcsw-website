@@ -14,6 +14,22 @@ type: "folding"
 
 {{< /details >}}
 
+<!-- Generalversammlung -->
+
+{{< details "Generalversammung" >}}
+
+- 05. März, 19:30 Uhr, Restaurant Obergass
+
+{{< /details >}}
+
+<!-- Eröffnung neues Clubhaus -->
+
+{{< details "Eröffnung Neubau Clubhaus" >}}
+
+- 13. April, ab 15:00 Uhr
+
+{{< /details >}}
+
 <!-- Saisonstart -->
 
 {{< details "Saisonstart" >}}
@@ -33,7 +49,6 @@ type: "folding"
 - Runde __5__ 08.06.24 - 09.06.24
 
 {{< /details >}}
-
 
 <!-- Junioren Stadtmeisterschaft -->
 
