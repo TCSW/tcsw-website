@@ -1,26 +1,55 @@
-{{ if isset .Site.Params "prices" }}
-{{ if .Site.Params.prices.enable }}
-<section class="bar background-image-fixed-3 no-mb color-white text-center">
-    <div class="dark-mask"></div>
+{{ if default true .Site.Params.Prices.enable }}
+{{ if isset .Site.Data "prices" }}
+{{ if gt (len .Site.Data.prices) 0 }}
+<section class="mbr-section-no-margin bar background-gray">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <h3 class="text-uppercase">{{ .Site.Params.static_bg.title | markdownify }}</h3>
-                <p class="lead">{{ .Site.Params.static_bg.subtitle | markdownify }}</p>
-                <p class="text-center">
-                    {{ with .Site.Params.static_bg.link_url }}
-                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg btn-call-to-action">
-                        {{ end }}
-                        {{ with .Site.Params.static_bg.link_text }}
-                        {{ . | markdownify }}
-                        {{ end }}
-                        {{ with .Site.Params.static_bg.link_url }}
-                    </a>
-                    {{ end }}
-                </p>
+            <div class="heading text-center">
+                <h2 class="mbr-section-title main-title">{{ .Site.Params.Prices.title | safeHTML }}</h2>
+            </div>
+            <p class="lead">{{ .Site.Params.Prices.subtitle | safeHTML }}</p>
+        </div>
+    </div>
+
+    <div class="mbr-section mbr-section-nopadding">
+        <div class="container">
+            <div class="row">
+                {{ range sort .Site.Data.prices "weight" }}
+                <div class="col-xs-12 col-md-3 col-xl-3">
+                    <div class="mbr-plan card text-xs-center">
+                        <div class="mbr-plan-header card-block">
+                            <div class="card-title">
+                                <h3 class="mbr-plan-title">{{ .title | safeHTML }}</h3>
+                            </div>
+                            <div class="card-text">
+                                <div class="mbr-price">
+                                    <span class="mbr-price-value">{{ .currency | safeHTML }}</span>
+                                    <span class="mbr-price-figure">{{ .price |safeHTML }}</span><small
+                                        class="mbr-price-term">{{
+                                        .term | safeHTML }}</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mbr-plan-body card-block">
+                            <div class="mbr-plan-list">
+                                <ul class="list-group list-group-flush">
+                                    {{ range .features }}
+                                    <li class="">{{ . | safeHTML }}</li>
+                                    {{ end }}
+                                </ul>
+                            </div>
+                            <div class="mbr-plan-btn">
+                                <a href="/membership/" class="btn btn-small btn-template-main" target="_blank">Learn
+                                    More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
             </div>
         </div>
     </div>
 </section>
 {{ end }}
-{{ end}}
+{{ end }}
+{{ end }}
