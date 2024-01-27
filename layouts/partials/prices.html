@@ -1,13 +1,15 @@
 {{ if default true .Site.Params.Prices.enable }}
 {{ if isset .Site.Data "prices" }}
 {{ if gt (len .Site.Data.prices) 0 }}
-<section class="mbr-section-no-margin bar background-gray">
+<section class="bar background-gray no-mb text-center">
     <div class="container">
         <div class="row">
-            <div class="heading text-center">
-                <h2 class="mbr-section-title main-title">{{ .Site.Params.Prices.title | safeHTML }}</h2>
+            <div class="col-md-12 heading">
+                <h2 class="text-uppercase">{{ .Site.Params.Prices.title | safeHTML }}</h2>
             </div>
-            <p class="lead">{{ .Site.Params.Prices.subtitle | safeHTML }}</p>
+            <div class="col-md-12">
+                <p class="lead">{{ .Site.Params.Prices.subtitle | safeHTML }}</p>
+            </div>
         </div>
     </div>
 
