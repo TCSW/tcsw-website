@@ -174,7 +174,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "PLATZ RESERVATION"
     subtitle = "GotCourts ist die elegante, schnelle, moderne und unkomplizierte schweizer Software die wir einsetzen, um die Platzreservation einfach zu machen. Du kannst wahlweise via Webbrowser oder App auf dem Smartphone Deine Reservationen platzieren, verwalten und löschen"
-    link_url = "subscribe"
+    link_url = "https://apps.gotcourts.com/newplayer/club/clb_11e7461dcc2d76c3a550029843b59922"
     link_text = "JETZT RESERVIEREN"
 
 
