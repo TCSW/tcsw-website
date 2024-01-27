@@ -208,7 +208,6 @@ pluralizelisttitles = false
     title = "Vorstand"
     subtitle = "Das Team des Tennisclubs Schützenwiese für die Saison 2024"
 
-
 [params.clients]
     enable = true
     title = "Unsere Sponsoren"
