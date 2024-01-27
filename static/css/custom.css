@@ -15,9 +15,12 @@
   color: #ffffff;
 }
 #heading-breadcrumbs {
-  background: url('/img/club/img-30-2000x1500.jpg') bottom;
+  background: linear-gradient(to right,rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url('/img/club/img-30-2000x1500.jpg') bottom;
   padding: 20px 0;
   margin-bottom: 40px;
+}
+#heading-breadcrumbs h1 {
+  color: #ffffff;
 }
 
 summary {

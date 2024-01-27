@@ -72,65 +72,62 @@ pluralizelisttitles = false
     weight     = 7
     parent     = "menu.home"
 
+# Main menu
+[[menu.main]]
+    name       = "Teams"
+    identifier = "menu.teams"
+    url        = "/teams/"
+    weight     = 2
+
 [[menu.main]]
     name       = "Training"
     identifier = "menu.training"
     url        = "/training/"
-    weight     = 2
+    weight     = 3
 
 [[menu.main]]
-    name       = "Junioren"
-    url        = "/training/probase/"
+    name       = "ProBase"
+    url        = "https://www.tennisprobase.com"
     weight     = 1
     parent     = "menu.training"
 
 [[menu.main]]
-    name       = "Erwachsene"
-    url        = "/training/probase/"
+    name       = "Platz Reservation"
+    url        = "https://apps.gotcourts.com/newplayer/club/clb_11e7461dcc2d76c3a550029843b59922"
     weight     = 2
     parent     = "menu.training"
 
-[[menu.main]]
-    name       = "Nichtmitglieder"
-    url        = "/training/probase/"
-    weight     = 3
-    parent     = "menu.training"
 
 [[menu.main]]
     name       = "Events"
     identifier = "menu.events"
     url        = "/events/"
-    weight     = 3
+    weight     = 4
 
 [[menu.main]]
     name       = "Jahresprogramm"
-    url        = "/events/jahresprogramm/"
+    url        = "/pdf/jahresprogramm.pdf/"
     weight     = 1
     parent     = "menu.events"
 
-[[menu.main]]
-    name       = "Interclub"
-    url        = "/interclub/"
-    weight     = 2
-    parent     = "menu.events"
 
 [[menu.main]]
     name       = "ASVZ"
     identifier = "menu.asvz"
     url        = "/asvz/"
-    weight     = 4
+    weight     = 5
 
 [[menu.main]]
     name       = "FAQ"
     identifier = "menu.faq"
     url        = "/faq/"
-    weight     = 5
+    weight     = 6
 
 [[menu.main]]
     name       = "Kontakt"
     identifier = "menu.contact"
     url        = "/contact/"
-    weight     = 6
+    weight     = 7
 
 # Topbar Socials
 
@@ -169,8 +166,11 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "TENNISCLUB SCHÜTZENWIESE"
     subtitle = "WILLKOMMEN BEIM SCHÖNSTEN TENNISCLUB DER STADT WINTERTHUR"
-    link_url = "membership"
+    link_url = "subscribe"
     link_text = "JETZT BEITRETEN"
+
+[params.prices]
+    enable = true
 
 [params.features]
     enable = true
