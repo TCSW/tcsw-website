@@ -169,6 +169,15 @@ pluralizelisttitles = false
     link_url = "subscribe"
     link_text = "JETZT BEITRETEN"
 
+[params.reservation]
+    enable = true
+    icon = "far fa-file-alt"
+    title = "PLATZ RESERVATION"
+    subtitle = "GotCourts ist die elegante, schnelle, moderne und unkomplizierte schweizer Software die wir einsetzen, um die Platzreservation einfach zu machen. Du kannst wahlweise via Webbrowser oder App auf dem Smartphone Deine Reservationen platzieren, verwalten und löschen"
+    link_url = "subscribe"
+    link_text = "JETZT RESERVIEREN"
+
+
 [params.prices]
     enable = true
     title = "Mitglied Werden"
@@ -197,7 +206,7 @@ pluralizelisttitles = false
 [params.testimonials]
     enable = true
     title = "Vorstand"
-    subtitle = "Das Team des Tennisclubs Schützenwiese für die Saison 2023"
+    subtitle = "Das Team des Tennisclubs Schützenwiese für die Saison 2024"
 
 
 [params.clients]

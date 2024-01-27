@@ -3,22 +3,35 @@
     background: linear-gradient(to right,rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/img/fixed-background-3.jpg') center top no-repeat;
     background-attachment: scroll;
     background-size: cover;
-  }
+}
+
+.bar.background-image-fixed-4 {
+  background: linear-gradient(to right,rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/img/gotcourts-bg.jpg') center top no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
 .lead {
   text-align: center;
 }
+
 .bar.background-pentagon {
-  background: url('/img/img-6972-2000x549.jpg') center center no-repeat;
+  background: linear-gradient(to bottom,rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('/img/img-6972-2000x549.jpg') center center no-repeat;
   background-size: cover;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
   color: #ffffff;
 }
+.text-white {
+  color: #ffffff;
+}
+
 #heading-breadcrumbs {
   background: linear-gradient(to right,rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url('/img/club/img-30-2000x1500.jpg') bottom;
   padding: 20px 0;
   margin-bottom: 40px;
 }
+
 #heading-breadcrumbs h1 {
   color: #ffffff;
 }

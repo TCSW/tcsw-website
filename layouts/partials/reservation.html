@@ -1,0 +1,26 @@
+{{ if isset .Site.Params "reservation" }}
+{{ if .Site.Params.reservation.enable }}
+<section class="bar background-image-fixed-4 no-mb color-white text-center">
+    <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-uppercase">{{ .Site.Params.reservation.title | markdownify }}</h2>
+                <p class="lead">{{ .Site.Params.reservation.subtitle | markdownify }}</p>
+                <p class="text-center">
+                    {{ with .Site.Params.reservation.link_url }}
+                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg btn-template-main">
+                        {{ end }}
+                        {{ with .Site.Params.reservation.link_text }}
+                        {{ . | markdownify }}
+                        {{ end }}
+                        {{ with .Site.Params.reservation.link_url }}
+                    </a>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
