@@ -31,105 +31,102 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Über Us"
-    url        = "/about"
+    name       = "Home"
+    url        = "/"
     weight     = 1
+    parent     = "menu.home"
+
+[[menu.main]]
+    name       = "Über Us"
+    url        = "/about/"
+    weight     = 2
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Geschichte"
-    url        = "/"
-    weight     = 2
+    url        = "/history/"
+    weight     = 3
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Mitgliedschaften"
-    url        = "/membership"
-    weight     = 3
+    url        = "/membership/"
+    weight     = 4
     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Anmeldung"
-    url        = "/subscribe"
-    weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Sponsoren"
-    url        = "/sponsors"
+    url        = "/subscribe/"
     weight     = 5
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Dokumente"
-    url        = "/documents/documents"
+    name       = "Sponsoren"
+    url        = "/sponsors/"
     weight     = 6
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Training"
-    identifier = "menu.training"
-    url        = "/img/template-easy-customize.png"
+    name       = "Dokumente"
+    url        = "/documents/documents/"
+    weight     = 7
+    parent     = "menu.home"
+
+# Main menu
+[[menu.main]]
+    name       = "Teams"
+    identifier = "menu.teams"
+    url        = "/teams/"
     weight     = 2
 
 [[menu.main]]
-    name       = "Junioren"
-    url        = "/training"
+    name       = "Training"
+    identifier = "menu.training"
+    url        = "/training/"
+    weight     = 3
+
+[[menu.main]]
+    name       = "ProBase"
+    url        = "https://www.tennisprobase.com"
     weight     = 1
     parent     = "menu.training"
 
 [[menu.main]]
-    name       = "Erwachsene"
-    url        = "/training"
+    name       = "Platz Reservation"
+    url        = "https://apps.gotcourts.com/newplayer/club/clb_11e7461dcc2d76c3a550029843b59922"
     weight     = 2
     parent     = "menu.training"
 
-[[menu.main]]
-    name       = "Nichtmitglieder"
-    url        = "/training"
-    weight     = 3
-    parent     = "menu.training"
 
 [[menu.main]]
     name       = "Events"
     identifier = "menu.events"
-    url        = "/img/template-homepage.png"
-    weight     = 3
+    url        = "/events/"
+    weight     = 4
 
 [[menu.main]]
     name       = "Jahresprogramm"
-    url        = "/events/jahresprogramm"
+    url        = "/pdf/jahresprogramm.pdf/"
     weight     = 1
     parent     = "menu.events"
 
-[[menu.main]]
-    name       = "Interclub"
-    url        = "/interclub"
-    weight     = 2
-    parent     = "menu.events"
 
 [[menu.main]]
     name       = "ASVZ"
     identifier = "menu.asvz"
-    url        = "/asvz-info"
-    weight     = 4
-
-[[menu.main]]
-    name       = "Info"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.asvz"
+    url        = "/asvz/"
+    weight     = 5
 
 [[menu.main]]
     name       = "FAQ"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.asvz"
+    identifier = "menu.faq"
+    url        = "/faq/"
+    weight     = 6
 
 [[menu.main]]
     name       = "Kontakt"
     identifier = "menu.contact"
-    url        = "/contact"
+    url        = "/contact/"
     weight     = 7
 
 # Topbar Socials
@@ -169,8 +166,26 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "TENNISCLUB SCHÜTZENWIESE"
     subtitle = "WILLKOMMEN BEIM SCHÖNSTEN TENNISCLUB DER STADT WINTERTHUR"
-    link_url = "membership"
+    link_url = "subscribe"
     link_text = "JETZT BEITRETEN"
+
+[params.reservation]
+    enable = true
+    icon = "far fa-file-alt"
+    title = "PLATZ RESERVATION"
+    subtitle = "GotCourts ist die elegante, schnelle, moderne und unkomplizierte schweizer Software die wir einsetzen, um die Platzreservation einfach zu machen. Du kannst wahlweise via Webbrowser oder App auf dem Smartphone Deine Reservationen platzieren, verwalten und löschen"
+    link_url = "https://apps.gotcourts.com/newplayer/club/clb_11e7461dcc2d76c3a550029843b59922"
+    link_text = "JETZT RESERVIEREN"
+
+
+[params.prices]
+    enable = true
+    title = "Mitglied Werden"
+    subtitle = """Preise für eine gesamte Saison (Mitte April - Ende Oktober).
+        <br>Es ist keine A fonds-perdu Zahlung oder der Erwerb von Anteilsscheinen erforderlich.
+        <br>Jährlich wird ein Aufschlag für Frondienst verrechnet: 
+        Diese wird im Verlaufe des Jahres bei Mithilfe beim Unterhalt der Anlage oder Veranstaltungen rückvergütet.
+        """
 
 [params.features]
     enable = true
@@ -191,8 +206,7 @@ pluralizelisttitles = false
 [params.testimonials]
     enable = true
     title = "Vorstand"
-    subtitle = "Das Team des Tennisclubs Schützenwiese für die Saison 2023"
-
+    subtitle = "Das Team des Tennisclubs Schützenwiese für die Saison 2024"
 
 [params.clients]
     enable = true

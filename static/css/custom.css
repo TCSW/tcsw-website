@@ -1,23 +1,39 @@
 
 .bar.background-image-fixed-3 {
-    background: url('/img/fixed-background-3.jpg') center top no-repeat;
+    background: linear-gradient(to right,rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/img/fixed-background-3.jpg') center top no-repeat;
     background-attachment: scroll;
     background-size: cover;
-  }
+}
+
+.bar.background-image-fixed-4 {
+  background: linear-gradient(to right,rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/img/gotcourts-bg.jpg') center top no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
 .lead {
   text-align: center;
 }
+
 .bar.background-pentagon {
-  background: url('/img/img-6972-2000x549.jpg') center center no-repeat;
+  background: linear-gradient(to bottom,rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('/img/img-6972-2000x549.jpg') center center no-repeat;
   background-size: cover;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
   color: #ffffff;
 }
+.text-white {
+  color: #ffffff;
+}
+
 #heading-breadcrumbs {
-  background: url('/img/club/img-30-2000x1500.jpg') bottom;
+  background: linear-gradient(to right,rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url('/img/club/img-30-2000x1500.jpg') bottom;
   padding: 20px 0;
   margin-bottom: 40px;
+}
+
+#heading-breadcrumbs h1 {
+  color: #ffffff;
 }
 
 summary {
@@ -52,8 +68,123 @@ input[type="radio"], input[type="checkbox"] {
   color: var(--primary-accent);
 }
 
+input[type="date"]:before {
+  content: attr(data-placeholder);
+  width: 100%;
+}
+
+input[type="date"]:focus:before,
+input[type="date"]:valid:before {
+  content: "";
+}
+
 .fit {
   max-width: 100%;
   max-height: 100%;
   padding: 3%;
+}
+
+#dob-text {
+  color: gray;
+  opacity: 0.9;
+}
+
+/* prices home section */
+.mbr-section-no-margin {
+  margin: 0;
+}
+
+/* Styling for each pricing card */
+.mbr-plan {
+  border-radius: 10px; /* Rounded edges */
+  margin: 20px 0;
+  background-color: #ffffff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+}
+
+/* Center-align the text inside each pricing card */
+.mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term, .mbr-plan-list {
+  text-align: center;
+}
+
+.mbr-plan-title {
+  padding: 10%;
+  margin: 0%;
+}
+
+.mbr-price {
+  text-align: center;
+}
+
+/* Style the price as the biggest and boldest text */
+.mbr-price-figure {
+  font-size: 45px; /* Adjust as needed */
+  font-weight: bold;
+}
+
+/* Style the features as plain text list */
+.mbr-plan-list li {
+  list-style-type: none;
+  padding: 10px;
+}
+
+/* Remove border for the last feature in the list */
+.mbr-plan-list li:last-child {
+  border-bottom: none;
+}
+
+/* Styling for the "Learn More" button container */
+.mbr-plan-btn {
+  text-align: center;
+  padding-bottom: 15%;
+}
+
+.btn-template-main {
+  color: #ffffff;
+  background-color: var(--primary-accent);;
+  border-color: var(--primary-accent);
+}
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active,
+.open > .dropdown-toggle.btn-template-main {
+  color: #e6e6e6;
+  background-color: var(--primary-accent) ;
+  border-color: var(--button-border);
+}
+.btn-template-main:active,
+.btn-template-main.active,
+.open > .dropdown-toggle.btn-template-main {
+  background-image: none;
+}
+.btn-template-main.disabled,
+.btn-template-main[disabled],
+fieldset[disabled] .btn-template-main,
+.btn-template-main.disabled:hover,
+.btn-template-main[disabled]:hover,
+fieldset[disabled] .btn-template-main:hover,
+.btn-template-main.disabled:focus,
+.btn-template-main[disabled]:focus,
+fieldset[disabled] .btn-template-main:focus,
+.btn-template-main.disabled:active,
+.btn-template-main[disabled]:active,
+fieldset[disabled] .btn-template-main:active,
+.btn-template-main.disabled.active,
+.btn-template-main[disabled].active,
+fieldset[disabled] .btn-template-main.active {
+  background-color: #ffffff;
+  border-color: var(--primary-accent);
+}
+.btn-template-main .badge {
+  color: #ffffff;
+  background-color: var(--primary-accent);
+}
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active {
+  background: #ffffff;
+  color: var(--primary-accent);
+  border-color: var(--primary-accent);
 }

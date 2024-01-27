@@ -1,39 +1,44 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  <head>
-    {{ partial "headers.html" . }}
-    {{ partial "custom_headers.html" . }}
-  </head>
+<head>
+  {{ partial "headers.html" . }}
+  {{ partial "custom_headers.html" . }}
+</head>
 
-  <body>
+<body>
 
-    <div id="all">
+  <div id="all">
 
-        {{ partial "top.html" . }}
+    {{ partial "top.html" . }}
 
-        {{ partial "nav.html" . }}
+    {{ partial "nav.html" . }}
 
-        {{ partial "static_bg.html" . }}
+    {{ partial "static_bg.html" . }}
 
-        {{ partial "carousel.html" . }}
+    {{ partial "features.html" . }}
 
-        {{ partial "features.html" . }}
+    {{ partial "reservation.html" . }}
 
-        {{ partial "testimonials.html" . }}
+    {{ partial "carousel.html" . }}
 
-        {{ partial "see_more.html" . }}
+    {{ partial "prices.html" . }}
 
-        {{ partial "recent_posts.html" . }}
+    {{ partial "testimonials.html" . }}
 
-        {{ partial "clients.html" . }}
+    {{ partial "see_more.html" . }}
 
-        {{ partial "footer.html" . }}
+    {{ partial "recent_posts.html" . }}
 
-    </div>
-    <!-- /#all -->
+    {{ partial "clients.html" . }}
 
-    {{ partial "scripts.html" . }}
+    {{ partial "footer.html" . }}
 
-  </body>
+  </div>
+  <!-- /#all -->
+
+  {{ partial "scripts.html" . }}
+
+</body>
+
 </html>
