@@ -1,6 +1,6 @@
 ---
-title: "3L Herren"
+title: "3. Liga Herren"
 banner: "/img/elitelogo200.png"
 ---
 
-# 3L Herren
+# 3. Liga Herren
