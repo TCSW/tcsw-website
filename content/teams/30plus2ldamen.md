@@ -1,6 +1,6 @@
 ---
 title: "30+ 2. Liga Damen"
-banner: "/img/elitelogo200.png"
+banner: "/img/2ldamen.jpg"
 ---
 
 # 30+ 2. Liga Damen
