@@ -1,6 +1,6 @@
 ---
-title: "1L Herren"
+title: "1. Liga Herren"
 banner: "/img/elitelogo200.png"
 ---
 
-# 1L Herren
+# 1. Liga Herren
