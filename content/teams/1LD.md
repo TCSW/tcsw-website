@@ -1,6 +1,6 @@
 ---
-title: "1L Damen"
+title: "1. Liga Damen"
 banner: "/img/elitelogo200.png"
 ---
 
-# 1L Damen
+# 1. Liga Damen
