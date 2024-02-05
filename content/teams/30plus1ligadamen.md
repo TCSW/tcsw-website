@@ -1,6 +1,6 @@
 ---
 title: "30+ 1. Liga Damen"
-banner: "/img/elitelogo200.png"
+banner: "/img/platzhalter.jpg"
 ---
 
 # 30+ 1. Liga Damen
