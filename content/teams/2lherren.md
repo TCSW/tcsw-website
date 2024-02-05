@@ -1,6 +1,6 @@
 ---
 title: "2. Liga Herren"
-banner: "/img/elitelogo200.png"
+banner: "/img/platzhalter.jpg"
 ---
 
 # 2. Liga Herren
