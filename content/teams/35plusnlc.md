@@ -1,6 +1,6 @@
 ---
 title: "35+ NLC"
-banner: "/img/elitelogo200.png"
+banner: "/img/platzhalter.jpg"
 ---
 
 - player 1
