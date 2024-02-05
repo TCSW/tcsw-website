@@ -1,6 +1,6 @@
 ---
 title: "1. Liga Damen"
-banner: "/img/elitelogo200.png"
+banner: "/img/platzhalter.jpg"
 ---
 
 # 1. Liga Damen
