@@ -1,6 +1,6 @@
 ---
 title: "3. Liga Herren"
-banner: "/img/elitelogo200.png"
+banner: "/img/platzhalter.jpg"
 ---
 
 # 3. Liga Herren
