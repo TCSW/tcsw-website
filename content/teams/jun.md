@@ -1,6 +1,6 @@
 ---
 title: "Junioren"
-banner: "/img/elitelogo200.png"
+banner: "/img/platzhalter.jpg"
 ---
 
 # Junioren
