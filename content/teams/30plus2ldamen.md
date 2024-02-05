@@ -1,6 +1,6 @@
 ---
 title: "30+ 2. Liga Damen"
-banner: "/img/platzhalter.jpg"
+banner: "/img/2ldamen.jpg"
 ---
 
 # 30+ 2. Liga Damen
