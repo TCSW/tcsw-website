@@ -2,7 +2,7 @@
 title: "ASVZ"
 ---
 
-# Liebes ASVZ Mitglied: Herzlich willkommen beim Tennisclub Schützenwiese!
+# Herzlich willkommen beim Tennisclub Schützenwiese!
 
 Es freut uns sehr, dass Du uns auf der Webseite entdeckt hast - und noch mehr freut es uns, wenn Du auf unserer schönen Anlage spielen kommst. Wir sind in Winterthur zentral gelegen und bequem via ÖV, dem Velo oder zu Fuss erreichbar. 
 
