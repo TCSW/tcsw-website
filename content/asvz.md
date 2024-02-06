@@ -9,7 +9,7 @@ Es freut uns sehr, dass Du uns auf der Webseite entdeckt hast - und noch mehr fr
 # Unser Angebot für Dich:
 - Als ASVZ Mitglied kannst Du ganz ohne TCSW Mitgliedschaft in unserem Club Plätze mieten
 - was Du dazu brauchst, ist die GotCourts Applikation und etwas Guthaben auf Deinem GotCourts Account
-- konkret sind es 15.-, die ein Platz pro Stunde kostet
+- konkret sind es **15.00 CHF/h**, die ein Platz pro Stunde kostet
 - wir offerieren Dir unter der Woche jeweils den Zeitraum bis 18:00 (Spielende). Am Wochenende ist die Anlage für Clubmitglieder reserviert
 - ASVZ Mitglieder dürfen bis max. 2 Plätze gleichzeitig auf unserer Anlage belegen
 
