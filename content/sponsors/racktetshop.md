@@ -1,4 +1,0 @@
----
-title: "Racktetshop"
-banner: "img/sponsors/racketshop-300x128.png"
----
