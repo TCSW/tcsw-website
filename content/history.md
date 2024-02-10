@@ -1,7 +1,7 @@
 ---
 title: "History"
 ---
-
+# Geschichte
 Die Tennissektion des Fussballclubs Winterthur wurde 1923 gegründet. Ein eigener Tennisplatz stand aber noch nicht zur Verfügung. Aus diesem Grund übernahm man einen alten Platz des Tennisclubs Winterthur an der Bahnstrasse im Bereich des heutigen Sulzer-Areals. Zudem wurde auf einem Platz im Merz-Rietergut Tennis gespielt. 1927 konnte auf der Schützenwiese, unmittelbar neben dem Sportplatz der Fussball-Sektion vier neue Tennisplätze in Betrieb genommen werden. Ab 1933 wurden auf den vier Tennisplätzen in der Schützenwiese im Winter eine Eisbahn betrieben. 1936 konnte ein Clubhaus erstellt werden. 1957 erfolgte die Neugliederung des Gesamtverein FC Winterthur und somit auch die Trennung der beiden Sektionen Fussball und Tennis in zwei selbstständige Vereine. Das Verhältnis der beiden Vereine wurde neu vertraglich geregelt. Die Tennissektion hiess in der Folge Tennisclub FC Winterthur. 1961 zog der Club vom alten Standort auf die neu erstellte Anlage in der Unteren Schützenwiese, der heutige Standort. 1975 wurde der Name des Tennisclub FC Winterthur gemäss Beschluss der Generalversammlung in Tennisclub Schützenwiese geändert, da nach der Kündigung des Vertrages keine Bindung mehr zum FC Winterthur bestand. 1990 wurde das Clubhaus umgebaut und im Jahr 2023 wurde das Clubhaus abgerissen und durch einen Neubau ersetzt.
 
 # Sportliche Erfolge
