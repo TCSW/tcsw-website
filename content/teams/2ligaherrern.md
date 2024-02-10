@@ -1,4 +1,4 @@
 ---
-title: "1. Liga Herren"
+title: "2. Liga Herren"
 banner: "/img/platzhalter.jpg"
 ---
