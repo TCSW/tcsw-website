@@ -1,6 +1,4 @@
 ---
-title: "35+ NLC"
+title: "2. Liga Herren"
 banner: "/img/platzhalter.jpg"
 ---
-
-# 35+ NLC
