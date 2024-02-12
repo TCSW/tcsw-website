@@ -69,7 +69,7 @@ Im ersten Jahr gilt eine Ermässigung von CHF 60.- für **Aktiv 1** und **Aktiv 
 {{< details "Kinder" >}}
 
 - bis 6 Jahre
-- gemeinsam mit eine vollzahlenden Mitglied
+- gemeinsam mit einem vollzahlenden Mitglied
 - Die Jahresmitgliedschaft ist **gratis**
 
 {{< /details >}}
