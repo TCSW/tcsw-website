@@ -1,5 +1,6 @@
 ---
 title: "Dokumente"
+type: "documents"
 ---
 
 # [Statuten](/pdf/statuten.pdf)

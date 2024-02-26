@@ -68,7 +68,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Dokumente"
-    url        = "/documents/documents/"
+    url        = "/documents/"
     weight     = 7
     parent     = "menu.home"
 
