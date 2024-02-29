@@ -5,6 +5,56 @@
     {{ partial "headers.html" . }}
     {{ partial "custom_headers.html" . }}
 </head>
+<script>
+    function calculateAgeAndValidateForm(event) {
+        var selectedOption = document.querySelector('input[name="membershipType"]:checked').value;
+
+        // Check if the selected option is "Aktiv_in_Ausbildung"
+        if (selectedOption === "Aktiv_in_Ausbildung") {
+            var birthdateInput = document.getElementsByName("birthdate")[0];
+            var birthdate = new Date(birthdateInput.value);
+            var today = new Date();
+            var age = today.getFullYear() - birthdate.getFullYear();
+
+            // Check if the birthday hasn't occurred yet this year
+            if (today.getMonth() < birthdate.getMonth() ||
+                (today.getMonth() === birthdate.getMonth() && today.getDate() < birthdate.getDate())) {
+                age--;
+            }
+
+            // Check if age is greater than 28 and prevent form submission
+            if (age > 28) {
+                event.preventDefault(); // Prevent form submission
+                var alertMessage = "Du bist nicht für 'Aktiv in Ausbildung' qualifiziert, da du älter als 28 Jahre bist.";
+                displayErrorAlert(alertMessage);
+            } else {
+                clearErrorAlert(); // Clear any existing error message
+            }
+        }
+    }
+
+    function displayErrorAlert(message) {
+        var alertDiv = document.getElementById("errorAlert");
+
+        if (!alertDiv) {
+            alertDiv = document.createElement("div");
+            alertDiv.id = "errorAlert";
+            alertDiv.classList.add("alert", "alert-danger");
+            alertDiv.setAttribute("role", "alert");
+            var form = document.forms["subscription"];
+            form.parentNode.insertBefore(alertDiv, form);
+        }
+
+        alertDiv.textContent = message;
+    }
+
+    function clearErrorAlert() {
+        var alertDiv = document.getElementById("errorAlert");
+        if (alertDiv) {
+            alertDiv.parentNode.removeChild(alertDiv);
+        }
+    }
+</script>
 
 <body>
 
@@ -89,8 +139,7 @@
 
                                     </div>
                                     <label>
-                                        <input type="radio" name="membershipType" id="membershipType1" value="Aktiv_1"
-                                            checked="">
+                                        <input type="radio" name="membershipType" id="membershipType1" value="Aktiv_1">
                                         Aktiv 1 (CHF 550.-/ Jahr)
                                     </label>
                                 </div>
@@ -106,6 +155,8 @@
                                         <input type="radio" name="membershipType" id="membershipType3"
                                             value="Aktiv_in_Ausbildung">
                                         Aktiv in Ausbildung (CHF 250.-/ Jahr)
+                                        <a class="legi-link" href="mailto:admin@tcsw.ch"> **gültigen Legi an
+                                            admin@tcsw.ch schicken**</a>
                                     </label>
                                 </div>
                                 <div class="radio">
@@ -148,7 +199,7 @@
                                 </div>
 
                                 <input type="submit" class="form-control btn btn-template-main"
-                                    value="Anmeldung abschicken">
+                                    value="Anmeldung abschicken" , onclick="return calculateAgeAndValidateForm(event);">
                             </form>
                         </div>
 

@@ -208,3 +208,7 @@ fieldset[disabled] .btn-template-main.active {
   max-width: 100%;
   margin-bottom: 15%;
 }
+
+.legi-link {
+  color: var(--primary-accent);
+}
