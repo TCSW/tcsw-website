@@ -115,6 +115,11 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "menu.events"
 
+[[menu.main]]
+    name       = "Jubiläumsfest"
+    url        = "/celebration/"
+    weight     = 2
+    parent     = "menu.events"
 
 [[menu.main]]
     name       = "ASVZ"

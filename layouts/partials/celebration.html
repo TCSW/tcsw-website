@@ -83,8 +83,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="text-uppercase">{{ .Site.Params.celebration.title | markdownify }}</h2>
-                <p class="lead">{{ .Site.Params.celebration.subtitle | markdownify }}</p>
+                <a href="/celebration">
+                    <h2 class="text-uppercase">{{ .Site.Params.celebration.title | markdownify }}</h2>
+                    <p class="lead">{{ .Site.Params.celebration.subtitle | markdownify }}</p>
+                </a>
             </div>
         </div>
     </div>
