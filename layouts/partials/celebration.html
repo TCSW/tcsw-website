@@ -1,0 +1,95 @@
+{{ if isset .Site.Params "celebration" }}
+{{ if .Site.Params.celebration.enable }}
+
+<!-- jsDelivr  -->
+<script src="https://cdn.jsdelivr.net/npm/fireworks-js@2.x/dist/index.umd.js"></script>
+
+<!-- UNPKG -->
+<script src="https://unpkg.com/fireworks-js@2.x/dist/index.umd.js"></script>
+
+<!-- Usage -->
+<script>
+    window.onload = function () {
+        const container = document.querySelector('.fireworks')
+
+        // Get the width and height of the section element
+        const sectionWidth = container.offsetWidth;
+        const sectionHeight = container.offsetHeight;
+
+        const fireworks = new Fireworks.default(container, {
+            autoresize: false,
+            opacity: 1.0,
+            acceleration: 1,
+            friction: 0.95,
+            gravity: 0.8,
+            particles: 50,
+            traceLength: 3,
+            traceSpeed: 5,
+            explosion: 5,
+            intensity: 30,
+            flickering: 50,
+            lineStyle: 'round',
+            hue: {
+                min: 0,
+                max: 360
+            },
+            delay: {
+                min: 50,
+                max: 80
+            },
+            rocketsPoint: {
+                min: 50,
+                max: 50
+            },
+            lineWidth: {
+                explosion: {
+                    min: 2.5,
+                    max: 7
+                },
+                trace: {
+                    min: 1,
+                    max: 2
+                }
+            },
+            brightness: {
+                min: 50,
+                max: 80
+            },
+            decay: {
+                min: 0.015,
+                max: 0.03
+            },
+            mouse: {
+                click: false,
+                move: false,
+                max: 1
+            },
+            boundaries: {
+                x: 50,
+                y: 50,
+                width: sectionWidth,
+                height: sectionHeight
+            }
+        })
+        fireworks.start()
+    }
+</script>
+
+<!-- <section class="bar no-mb color-white text-center fireworks-bg pyro"> -->
+<section class="bar no-mb color-white text-center fireworks-bg">
+    <div class="dark-mask fireworks"></div>
+    <!-- <div class="before"></div>
+    <div class="after"></div> -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a href="/celebration">
+                    <h2 class="text-uppercase">{{ .Site.Params.celebration.title | markdownify }}</h2>
+                    <p class="lead">{{ .Site.Params.celebration.subtitle | markdownify }}</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

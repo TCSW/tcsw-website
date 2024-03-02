@@ -1,3 +1,3 @@
 ---
-title: "Sponsors"
+title: "Sponsoren"
 ---

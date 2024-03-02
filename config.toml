@@ -115,6 +115,11 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "menu.events"
 
+[[menu.main]]
+    name       = "Jubiläumsfest"
+    url        = "/celebration/"
+    weight     = 2
+    parent     = "menu.events"
 
 [[menu.main]]
     name       = "ASVZ"
@@ -173,6 +178,11 @@ pluralizelisttitles = false
     subtitle = "WILLKOMMEN BEIM SCHÖNSTEN TENNISCLUB DER STADT WINTERTHUR"
     link_url = "subscribe"
     link_text = "JETZT BEITRETEN"
+
+[params.celebration]
+    enable = true
+    title = "101 Jubiläumsfest"
+    subtitle = "Samstag, 24. August 2024"
 
 [params.reservation]
     enable = true
