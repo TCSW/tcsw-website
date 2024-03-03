@@ -87,20 +87,3 @@ Im ersten Jahr gilt eine Ermässigung von CHF 60.- für **Aktiv 1** und **Aktiv 
 - Die Jahresmitgliedschaft beträgt CHF 50.00
 
 {{< /details >}}
-
-{{< details "Nur IC-SpielerInnen" >}}
-
-- Bewilligung durch Vorstand notwendig
-- Berechtigt zu den IC Spielen sowie dem wöchentlichen IC Teamtraining bis Ende IC Saison des entsprechenden Teams
-- Die Gebühr beträgt CHF 200.00
-
-{{< /details >}}
-
-{{< details "IC-Verstärkung" >}}
-
-- Berechtigt zu den IC Spielen
-- Der Teamcaptain übernimmt bei einer Nomination einer IC Verstärkung die Verantwortung für die Begleichung der Gebühr, (Lizenzadministration mit SwissTennis)
-- Die Gebühr ist geschuldet unabhängig vom tatsächlichen Einsatz der IC-Verstärkung
-- Die Gebühr beträgt CHF 50.00
-
-{{< /details >}}
