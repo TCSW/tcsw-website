@@ -8,7 +8,7 @@ Am 15. April 2024 konnte das neu erstelle Clubhaus in Betrieb genommen werden.
 
 # 2023
 
-Mit der Saisioneröffnung im April 2023 könnten auch die neue erstellten Allwetterplätze in Betriebgenommen werden. Nach dem Saisionende im Herbst 2023 wurde das 1936 erstellte Clubhaus abgebrochen. Das Fest zum 100-Jahr Jubiläum wurde auf 2024 verschoben, da das neue Clubhaus aus finanziellen Gründen erst im 2024 in Betrieb ist.
+Mit der Saisioneröffnung im April 2023 konnten auch die neu erstellten Allwetterplätze in Betriebgenommen werden. Nach dem Saisionende im Herbst 2023 wurde das 1936 erstellte Clubhaus abgebrochen. Das Fest zum 100-Jahr Jubiläum wurde auf 2024 verschoben, da das neue Clubhaus aus finanziellen Gründen erst im 2024 in Betrieb ist.
 
 # 2022
 
