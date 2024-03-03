@@ -283,3 +283,7 @@ fieldset[disabled] .btn-template-main.active {
   opacity: 0.8;
   filter: alpha(opacity=30);
 }
+
+.navbar-default {
+  border-bottom: 3px solid var(--primary-accent);
+}
