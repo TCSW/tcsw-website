@@ -8,3 +8,5 @@ type: "documents"
 # [Spielreglement](/pdf/spielreglement.pdf)
 
 # [Frondienstreglement](/pdf/frondienstreglement.pdf)
+
+# [Datenschutzerklärung](/pdf/datenschutzerklaerung.pdf)
