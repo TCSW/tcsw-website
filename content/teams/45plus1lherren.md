@@ -1,4 +1,4 @@
 ---
 title: "45+ 1. Liga Herren"
-banner: "/img/platzhalter.jpg"
+banner: "/img/45_herren_1liga.jpeg"
 ---
