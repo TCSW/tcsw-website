@@ -1,6 +1,6 @@
 ---
 title: "Junioren"
-banner: "/img/platzhalter.jpg"
+# banner: "/img/teams/<image_name>"
 ---
 
 # Junioren

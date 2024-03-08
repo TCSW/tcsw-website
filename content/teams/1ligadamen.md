@@ -1,4 +1,4 @@
 ---
 title: "1. Liga Damen"
-banner: "/img/platzhalter.jpg"
+# banner: "/img/teams/<image_name>"
 ---

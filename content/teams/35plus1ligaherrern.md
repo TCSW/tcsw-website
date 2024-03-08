@@ -1,4 +1,4 @@
 ---
 title: "35+ 1. Liga Herren"
-banner: "/img/platzhalter.jpg"
+# banner: "/img/teams/<image_name>"
 ---
