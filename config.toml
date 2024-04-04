@@ -37,7 +37,7 @@ pluralizelisttitles = false
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Über Us"
+    name       = "Über Uns"
     url        = "/about/"
     weight     = 2
     parent     = "menu.home"
