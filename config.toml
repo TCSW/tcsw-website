@@ -25,16 +25,10 @@ pluralizelisttitles = false
 
 # Main menu
 [[menu.main]]
-    name       = "Home"
+    name       = "Club"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
-
-[[menu.main]]
-    name       = "Home"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.home"
 
 [[menu.main]]
     name       = "Über Uns"
@@ -144,13 +138,13 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Instagram"
-    url = "https://instagram.com/"
+    url = "https://www.instagram.com/tc_schutzenwiese"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
     
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://www.facebook.com/TennisWinterthur/"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [params]
@@ -168,6 +162,8 @@ pluralizelisttitles = false
         <br><strong>Schützenwiesenweg 8, 
         <br>8400 Winterthur, Zürich
         <br><a href="mailto:info@tcsw.ch">info@tcsw.ch</a></strong>
+        <br>
+        <br>Wenn Du Fragen zum Training hast, kontaktiere: <a href="mailto:info@tennisprobase.com">info@tennisprobase.com</a>
       </p>
       """
 
@@ -226,17 +222,6 @@ pluralizelisttitles = false
     enable = true
     title = "Unsere Sponsoren"
     subtitle = ""
-
-[params.footer]
-    enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
-      """
-
-[params.footer.recent_posts]
-    enable = true
 
 [params.topbar]
     enable = true
