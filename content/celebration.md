@@ -8,4 +8,4 @@ Am 24. August 2024 feiern wir unser 101-Jähriges Bestehen. Bitte reserviert euc
 
 Detaillierte Informationen werden hier laufend angepasst.
 
-[Flyer](/pdf/flyerjubilaeum.pdf)
+![Flyer](/img/events/flyerjubilaeum.png)
