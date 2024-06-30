@@ -2,41 +2,49 @@
 title: "Faq"
 ---
 
-# Junior Interclub
+# Interclub
 
-## How does it work?
+### Ich bin ein neues Clubmitglied, wie kann ich einem Interclub-Team beitreten?
 
-The junior interclube (JIC) is divided in age categories U18, U15, U12 and U10.
-The categories U18, U15 and U12 have two types of ligas. Liga A (Ranking R4-R9) and Liga B (Ranking R7-R9)
-The U10 category is the only one where boys and girls can play in the same team.
+Am besten schickst du eine Nachricht an info@tcsw.ch, in der du uns mitteilst, dass du an einem Team interessiert bist. Bitte gib dein Alter und deinen Ehrgeiz an, damit wir dich mit dem richtigen Teamkapitän verbinden können.
 
-The teams for each category are drawn into groups of 4 and play at least 3 matches. If the team has performed well enough it will go to the play-offs rounds and play matches until the team loses or become the champions.
-The first 3 matches do not have a fixed date, but rather a deadline. The playoff matches are defined by SwissTennis when the publish the JIC details.
+# Junioren Interclub
 
-Like the normal IC, each team must have a captain, that is responsible for coordinating the matches with the other teams and team members. For the normal IC the captain is one of the players, but for the JIC most of the time, they are a parent of one of the kids in the team.
+### Wie funktioniert es?
 
-You can find more information directly on the [SwissTennis](https://www.swisstennis.ch/de/wettkampf/interclub/junioren-interclub/) website
+Der Junior Interclub (JIC) ist in Alterskategorien U18, U15, U12 und U10 unterteilt.
+Die Kategorien U18, U15 und U12 haben zwei Arten von Ligen: Liga A (Ranking R4-R9) und Liga B (Ranking R7-R9).
+Die U10-Kategorie ist die einzige, in der Jungen und Mädchen im selben Team spielen können.
 
-## What are the captains responsabilities and duties?
+Die Teams jeder Kategorie werden in Gruppen von 4 ausgelost und spielen mindestens 3 Matches. Wenn das Team (nur Liga A) gut genug abgeschnitten hat, geht es in die Play-off-Runden und spielt Matches, bis das Team verliert oder Champion wird.
+Die ersten 3 Matches haben kein festes Datum, sondern eine Deadline. Die Play-off-Matches werden von SwissTennis festgelegt, wenn die JIC-Details veröffentlicht werden.
 
-Because the first 3 matches do not have a fixed date, the captain main responsability is organising with the team members and the other team, a date when they can all play.
+Wie beim normalen IC muss jedes Team einen Kapitän haben, der für die Koordination der Matches mit den anderen Teams und Teammitgliedern verantwortlich ist. Beim normalen IC ist der Kapitän einer der Spieler, aber beim JIC ist es meistens ein Elternteil eines der Kinder im Team.
 
-The captain is also responsible for entering the matches results after the match is completed.
+Weitere Informationen findest du direkt auf der [SwissTennis](https://www.swisstennis.ch/de/wettkampf/interclub/junioren-interclub/) Website.
 
-[Here](/pdf/jic_checkliste_de.pdf) is a captain checklist by SwissTennis.
+### Was sind die Verantwortlichkeiten und Pflichten der Kapitäne?
 
-## When does the matches take places?
+Da die ersten 3 Matches kein festes Datum haben, besteht die Hauptverantwortung des Kapitäns darin, mit den Teammitgliedern und dem anderen Team ein Datum zu organisieren, an dem sie alle, spielen können.
 
-The first 3 matches do not have a fixed date, but rather a deadline. The fix date has to be coordinated with the other team's captain.
-The JIC tournament starts always after the 4th round of the Normal IC. This is normally begining of June.
+Der Kapitän ist auch dafür verantwortlich, die Spielergebnisse nach Abschluss des Matches einzutragen.
 
-## Which tennis ball is used?
+[Hier](/pdf/jic_checkliste_de.pdf) ist eine Kapitäns-Checkliste von SwissTennis.
 
-The TCSW Junior teams use Babolat Team and Babolat Green balls.
-Each team can choose which ball mark to play with, as long as they are allowed by SwissTennis.
+### Wann finden die Matches statt?
 
-## How can I subscribe my kid to play in the Junior IC?
+Die ersten 3 Matches haben kein festes Datum, sondern eine Deadline. Das feste Datum muss mit dem Kapitän des anderen Teams koordiniert werden.
+Die Deadline für die erste Runde des JIC-Turniers ist meistens nach der 4. Runde des normalen IC. Dies ist normalerweise Anfang Juni.
 
-The subscription formlar for the Junior IC is open from October of the previous year, until January of the following year.
+### Welche Tennisbälle werden verwendet?
 
-##
+Die TCSW-Junior-Teams verwenden Babolat Team und Babolat Green Bälle.
+Jedes Team kann wählen, mit welcher Ballmarke es spielt, solange diese von SwissTennis zugelassen ist.
+
+### Wie kann ich mein Kind für den Junior IC anmelden?
+
+Das Anmeldeformular für den Junior IC ist von Oktober des Vorjahres bis Januar des folgenden Jahres geöffnet.
+
+### Hast du noch Fragen?
+
+Bitte schreibe an ausbildung@tcsw.ch deine witeren Fragen.
