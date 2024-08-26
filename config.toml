@@ -176,7 +176,7 @@ pluralizelisttitles = false
     link_text = "JETZT BEITRETEN"
 
 [params.celebration]
-    enable = true
+    enable = false
     title = "101 Jubiläumsfest"
     subtitle = "Samstag, 24. August 2024"
     link = "/celebration"
