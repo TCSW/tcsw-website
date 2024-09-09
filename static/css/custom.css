@@ -1,6 +1,6 @@
 
 .bar.background-image-fixed-3 {
-    background: linear-gradient(to right,rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/img/fixed-background-3.jpg') center top no-repeat;
+    background: linear-gradient(to right,rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('/img/fixed-background-3.jpg') center top no-repeat;
     background-attachment: scroll;
     background-size: cover;
 }
@@ -11,6 +11,12 @@
   background-size: fit; 
 }
 
+.bar.background-image-jic {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/img/bg-jic-subscription.webp') center no-repeat;
+  background-attachment: scroll;
+  background-size: cover; 
+}
+
 @media screen and (max-width: 810px) {
   .bar.background-image-fixed-4 {
       background-size: 100% auto; /* Resize image to fit within the container */
@@ -19,6 +25,10 @@
 
 .lead {
   text-align: center;
+}
+
+.testimonials p {
+  color: #000;
 }
 
 .bar.background-pentagon {

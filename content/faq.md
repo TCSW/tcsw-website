@@ -45,6 +45,8 @@ Jedes Team kann wählen, mit welcher Ballmarke es spielt, solange diese von Swis
 
 Das Anmeldeformular für den Junior IC ist von Oktober des Vorjahres bis Januar des folgenden Jahres geöffnet.
 
+Die Anmeldung folgt durch diese [link](https://forms.gle/uHaBNEjgxUzLkM13A).
+
 ### Hast du noch Fragen?
 
 Bitte schreibe an ausbildung@tcsw.ch deine witeren Fragen.

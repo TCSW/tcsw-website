@@ -1,0 +1,26 @@
+{{ if isset .Site.Params "jic" }}
+{{ if .Site.Params.jic.enable }}
+<section class="bar background-image-jic no-mb color-white text-center">
+    <!-- <div class="dark-mask"></div> -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-uppercase">{{ .Site.Params.jic.title | markdownify }}</h2>
+                <p class="lead">{{ .Site.Params.jic.subtitle | markdownify }}</p>
+                <p class="text-center">
+                    {{ with .Site.Params.jic.link_url }}
+                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg btn-template-main">
+                        {{ end }}
+                        {{ with .Site.Params.jic.link_text }}
+                        {{ . | markdownify }}
+                        {{ end }}
+                        {{ with .Site.Params.jic.link_url }}
+                    </a>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

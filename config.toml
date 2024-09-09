@@ -92,12 +92,6 @@ pluralizelisttitles = false
     parent     = "menu.training"
 
 [[menu.main]]
-    name       = "ASVZ"
-    url        = "/training/asvz"
-    weight     = 3
-    parent     = "menu.training"
-
-[[menu.main]]
     name       = "Events"
     identifier = "menu.events"
     url        = "/events/"
@@ -181,6 +175,13 @@ pluralizelisttitles = false
     subtitle = "GotCourts ist die elegante, schnelle, moderne und unkomplizierte schweizer Software die wir einsetzen, um die Platzreservation einfach zu machen. Du kannst wahlweise via Webbrowser oder App auf dem Smartphone Deine Reservationen platzieren, verwalten und löschen"
     link_url = "https://apps.gotcourts.com/newplayer/club/clb_11e7461dcc2d76c3a550029843b59922"
     link_text = "JETZT RESERVIEREN"
+
+[params.jic]
+    enable = true
+    title = "JUNIOR INTERCLUB ANMELDUNG 2025 SEASON"
+    subtitle = "Jetzt für den Junior Interclub 2025 anmelden und Teil unseres Teams werden! Gemeinsam trainieren, spielen und wachsen!"
+    link_url = "https://forms.gle/uHaBNEjgxUzLkM13A"
+    link_text = "JETZT ANMELDEN"
 
 [params.prices]
     enable = true
