@@ -176,6 +176,13 @@ pluralizelisttitles = false
     link_url = "https://apps.gotcourts.com/newplayer/club/clb_11e7461dcc2d76c3a550029843b59922"
     link_text = "JETZT RESERVIEREN"
 
+[params.jic]
+    enable = true
+    title = "JUNIOR INTERCLUB ANMELDUNG 2025 SEASON"
+    subtitle = "Jetzt für den Junior Interclub 2025 anmelden und Teil unseres Teams werden! Gemeinsam trainieren, spielen und wachsen!"
+    link_url = "/jic"
+    link_text = "JETZT ANMELDEN"
+
 [params.prices]
     enable = true
     title = "Mitglied Werden"
