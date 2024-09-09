@@ -92,12 +92,6 @@ pluralizelisttitles = false
     parent     = "menu.training"
 
 [[menu.main]]
-    name       = "ASVZ"
-    url        = "/training/asvz"
-    weight     = 3
-    parent     = "menu.training"
-
-[[menu.main]]
     name       = "Events"
     identifier = "menu.events"
     url        = "/events/"
