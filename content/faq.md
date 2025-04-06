@@ -119,7 +119,7 @@ Die Deadline für die erste Runde des JIC-Turniers ist meistens nach der 4. Rund
 
 ### Welche Tennisbälle werden verwendet?
 
-Die TCSW-Junior-Teams verwenden Babolat Team und Babolat Green Bälle.
+Die TCSW-Junior-Teams verwenden Wilson US Open und Babolat Green Bälle.
 Jedes Team kann wählen, mit welcher Ballmarke es spielt, solange diese von SwissTennis zugelassen ist.
 
 ### Wie kann ich mein Kind für den Junior IC anmelden?
