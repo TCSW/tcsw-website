@@ -1,5 +1,5 @@
 ---
-title: "1. Liga Herren 1"
+title: "1. Liga Herren"
 # banner: "/img/teams/<image_name>"
 team_url: "https://www.mytennis.ch/de/interclub/teamergebnisse?teamId=16913"
 ---
