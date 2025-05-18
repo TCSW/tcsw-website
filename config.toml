@@ -8,13 +8,14 @@ defaultContentLanguage = "de"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+# googleAnalytics = ""
+
 
 # number of words of summarized post content (default 70)
 summaryLength = 70
 
 # Define the number of posts per page
-paginate = 10
+pagination.pagerSize = 10
 
 # not pluralize title pages by default
 pluralizelisttitles = false
