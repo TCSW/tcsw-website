@@ -178,10 +178,10 @@ pluralizelisttitles = false
     link_text = "JETZT RESERVIEREN"
 
 [params.jic]
-    enable = false
-    title = "JUNIOR INTERCLUB ANMELDUNG 2025 SEASON"
-    subtitle = "Jetzt für den Junior Interclub 2025 anmelden und Teil unseres Teams werden! Gemeinsam trainieren, spielen und wachsen!"
-    link_url = "https://forms.gle/uHaBNEjgxUzLkM13A"
+    enable = true
+    title = "JUNIOR INTERCLUB ANMELDUNG 2026 SEASON"
+    subtitle = "Jetzt für den Junior Interclub 2026 anmelden und Teil unseres Teams werden! Gemeinsam trainieren, spielen und wachsen!"
+    link_url = "https://forms.gle/i6nEmtDSLfiWemLR8"
     link_text = "JETZT ANMELDEN"
 
 [params.prices]
