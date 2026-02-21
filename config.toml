@@ -15,7 +15,7 @@ defaultContentLanguage = "de"
 summaryLength = 70
 
 # Define the number of posts per page
-pagination.pagerSize = 10
+pagination.pagerSize = 20
 
 # not pluralize title pages by default
 pluralizelisttitles = false
