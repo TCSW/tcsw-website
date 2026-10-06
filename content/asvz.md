@@ -13,6 +13,7 @@ Es freut uns sehr, dass Du uns auf der Webseite entdeckt hast - und noch mehr fr
 - konkret sind es **15.00 CHF/h**, die ein Platz pro Stunde kostet
 - wir offerieren Dir unter der Woche jeweils den Zeitraum bis 18:00 (Spielende). Am Wochenende ist die Anlage für Clubmitglieder reserviert
 - ASVZ Mitglieder dürfen bis max. 2 Plätze gleichzeitig auf unserer Anlage belegen
+- Unser Clubhaus und die Garderoben sind mit einem clubeigenen elektronischen Schliesssystem ausgestattet, zu dem ASVZ-Mitglieder keinen Zugang haben. Es kann daher vorkommen, dass Clubhaus und Garderoben geschlossen sind. Die Tennisplätze sind jedoch immer zugänglich..
 
 Nachfolgend der Ablauf der Anmeldung. Bitte beachte, dass wir bei erstmaliger Anmeldung allenfalls ein paar Tage benötigen, um Dich auf GotCourts freizuschalten. Ab dem zweiten mal kannst Du dann realtime buchen und bist auf keine Freigabe unsrerseits angewiesen. Den ersten Termin also mit Reserve planen.
 
