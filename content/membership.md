@@ -9,7 +9,7 @@ Der Tennisclub Schützenwiese offeriert eine Vielzahl verschiedener Mitgliedscha
 
 <!-- Eine verbindliche Anmeldung erfolgt unkompliziert via diesen [Link](http://tcsw.ch/subscribe.html) -->
 
-Eine verbindliche Anmeldung erfolgt unkompliziert via diesen [Link]({{< ref "/subscribe" >}})
+<!-- Eine verbindliche Anmeldung erfolgt unkompliziert via diesen [Link]({{< ref "https://mein.fairgate.ch/tcsw/anmeldung" >}}) -->
 
 **Wichtig zu wissen**
 
