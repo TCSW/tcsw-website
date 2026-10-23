@@ -51,7 +51,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Anmeldung"
-    url        = "/subscribe/"
+    url        = "https://mein.fairgate.ch/tcsw/anmeldung"
     weight     = 5
     parent     = "menu.home"
 
@@ -161,7 +161,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "TENNISCLUB SCHÜTZENWIESE"
     subtitle = "WILLKOMMEN BEIM SCHÖNSTEN TENNISCLUB DER STADT WINTERTHUR"
-    link_url = "subscribe"
+    link_url = "https://mein.fairgate.ch/tcsw/anmeldung"
     link_text = "JETZT BEITRETEN"
 
 [params.celebration]

@@ -11,7 +11,7 @@ Grundsätzlich ist eine Mitgliedschaft erforderlich, um auf unserer Anlage zu sp
 ASVZ Mitglieder (s. separate Frage).
 Teilnehmer an einem Tenniskurs unserer Tennisschule (ProBase)
 Als Gast eines TCSW Mitglieds
-Mitglied werden ist aber ganz einfach, im ersten Jahr werden auch Gebührenreduktionen offeriert (> zur [Anmeldung](/subscribe))
+Mitglied werden ist aber ganz einfach, im ersten Jahr werden auch Gebührenreduktionen offeriert (> zur [Anmeldung](https://mein.fairgate.ch/tcsw/anmeldung))
 
 ### Kann ich Plätze stundenweise mieten?
 
